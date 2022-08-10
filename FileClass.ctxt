@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FileClass
+comment1.params=
+comment1.target=void\ readFromFile()
+comment2.params=
+comment2.target=void\ serializeAcc()
+comment3.params=
+comment3.target=Clientable[]\ getArray()
+comment4.params=
+comment4.target=int\ getCount()
+numComments=5
