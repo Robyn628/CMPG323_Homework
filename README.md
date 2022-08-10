@@ -1,4 +1,4 @@
 # CMPG323_Homework Development
 
-This code tackles the problem of sorting different data in a database, it allows us to organise data in a more effic ient manner as well as to learn what is the best interface for users to manage. I enjoyed C# the most as the interactive interface made it much more enjoyable to see what exactly i was coding for other users.
+This code tackles the problem of working with financial calculations and organising the input from a user. I approached this problem and solved it with object-oriented programming. Java is a very well known platform to use for coding, knowing how to properly use it will help me prepare for the real worlds workplace. 
 
